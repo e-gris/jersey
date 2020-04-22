@@ -12,7 +12,8 @@
 [//]: # "  "
 [//]: # " SPDX-License-Identifier: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0 "
 
-[![Build Status](https://travis-ci.org/eclipse-ee4j/jersey.svg?branch=master)](https://travis-ci.org/eclipse-ee4j/jersey)
+[![Build Status](https://travis-ci.org/eclipse-ee4j/jersey.svg?branch=master)](https://travis-ci.org/eclipse-ee4j/jersey)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fe-gris%2Fjersey.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fe-gris%2Fjersey?ref=badge_shield)
+
 &nbsp;[![EPL-2.0](./etc/epl.svg)](https://www.eclipse.org/legal/epl-2.0/)
 &nbsp;[![GPL+CPE-2.0](./etc/gpl.svg)](https://www.gnu.org/software/classpath/license.html)
 
@@ -39,6 +40,9 @@ That means you can choose which one of the two suits your needs better and use i
 
 We use [contribution policy](CONTRIBUTING.md), which means we can only accept contributions under
  the terms of [ECA][eca].
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fe-gris%2Fjersey.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fe-gris%2Fjersey?ref=badge_large)
 
 ### More Info on Jersey
 See the [Jersey website][jersey-web] to access Jersey documentation. If you run into any issues or have questions,
